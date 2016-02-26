@@ -226,7 +226,7 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users =@yv_admin_11_blh_vy {110626080,103649648,143723991,111020322,0,tonumber(our_id)},--Sudo users
+    sudo_users = {120016068(our_id120016068)},120016068--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
@@ -323,11 +323,11 @@ This command will send text to [group_id]
 *Only admins and sudo can use kick,ban,unban,newlink,setphoto,setname,lock,unlock,set rules,set about and settings commands
 
 *Only admins and sudo can use res, setowner, commands
-]],
+]],@yv_best_admin_BLH_vY
     help_text = [[
 Commands list :
 
-!kick [username|id]
+!sik [username|id]
 You can also do it by reply
 
 !ban [ username|id]
